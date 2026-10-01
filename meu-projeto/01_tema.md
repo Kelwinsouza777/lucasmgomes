@@ -55,3 +55,5 @@ Tema delimitado e justificativa.
 | Integrante | Atividade realizada |
 |---|---|
 | `[Lucas Matos Gomes]` | `[Definição do tema e pesquisa inicial de conteúdo]` |
+| `[Lucas Matos Gomes]` | `[Definição do tema e pesquisa inicial de conteúdo]` |
+
